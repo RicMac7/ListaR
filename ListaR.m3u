@@ -3,10 +3,10 @@
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 group-title="TV R" tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LiveNOW_from_Fox.webp",LiveNOW from FOX (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV R" tvg-id="CNBC.us@SD" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:CNBC_logo.svg#/media/File%3ACNBC_2025.svg",CNBC (720p)
+#EXTINF:-1 group-title="TV R" tvg-id="CNBC.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png",CNBC (720p)
 #EXTVLCOPT:http-referrer=https://www.newslive.com/business/cnbc-live-free.html
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-#EXTINF:-1 group-title="TV R" tvg-id="CNBCEurope.uk@HD" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:CNBC_logo.svg#/media/File%3ACNBC_2025.svg",CNBC Europe HD (1080p)
+#EXTINF:-1 group-title="TV R" tvg-id="CNBCEurope.uk@HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png",CNBC Europe HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 group-title="TV R" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
