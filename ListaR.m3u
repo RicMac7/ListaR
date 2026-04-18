@@ -219,3 +219,62 @@ https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
 #EXTINF:-1 tvg-id="ESPN.6.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN6.png" group-title="TV R",ESPN 6 🇧🇷
 https://canaiss.fazoeli.co.za/fontes/smart/espn6.m3u8
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+✰ SPORTS 🇨🇿🇭🇷🇨🇿🇷🇴🇷🇸
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="1850" tvg-name="sk1" tvg-id="SK.1.HD.(HR).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 1 🇭🇷 
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-referrer=https://github.com/
++https://github.com/B-inal-123/s-eropa/raw/inal-22/SportKlubSL1.m3u8
++https://github.com/cattviptv2605/sportworld/raw/main/sportklub1.m3u8
++http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=227232&extension=ts
+
+
+#EXTINF:-1 tvg-chno="" cuid="1851" tvg-name="sk1" tvg-id="SK1.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 1 🇸🇮 
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎
++http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/217.ts
+http://1gotv.org:8080/4626128589099887/4626128589099887/320419
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1852" tvg-name="sk2" tvg-id="SK2.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 2 🇸🇮 
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Tennis🎾
++http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/216.ts
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-referrer=https://github.com/
++https://github.com/cattviptv2605/sportworld/raw/main/sportklub2.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1853" tvg-name="sk2" tvg-id="SK.2.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 2 🇭🇷 
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Tennis🎾
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+https://github.com/B-inal-123/s-eropa/raw/inal-22/SportKlubSL2.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/303036.ts
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1854" tvg-name="sk3" tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 3 🇭🇷 🏍🏎️ 
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;MotoGP🏍;Formula1🏎️
++http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/214.ts
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/B-inal-123/s-eropa/raw/inal-22/SportKlubSL3.m3u8
+https://github.com/cattviptv2605/sportworld/raw/main/sportklub3.m3u8
++http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=227271&extension=ts
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1855" tvg-name="sk3" tvg-id="SK4.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 4 🇸🇮 
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Tennis🎾
++http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/215.ts
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-referrer=https://github.com/
++https://github.com/cattviptv2605/sportworld/raw/main/sportklub4.m3u8
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1856" tvg-name="sk3" tvg-id="SK5.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 5 🇸🇮 
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Tennis🎾
++http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/213.ts
++http://cmskos.bekaks.net:777/live/valard_klient2/PhcWLtKTuc/222.ts
