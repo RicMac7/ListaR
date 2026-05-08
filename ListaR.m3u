@@ -151,9 +151,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
  ESPN BRASIL 🇧🇷
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1631" tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 🇧🇷
-https://02.arlivre.online/espn/index.m3u8
-
 #EXTINF:-1 tvg-chno="" cuid="1632" tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 🇧🇷
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 +http://45.235.0.78/ESPN/playlist.m3u8
@@ -182,14 +179,14 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESP
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1638" tvg-id="ESPN.4.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 🇧🇷
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 1 🇧🇷
 https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
 https://02.arlivre.online/espn4/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1639" tvg-id="ESPN.4.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 🇧🇷
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 2 🇧🇷
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN4.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1640" tvg-id="ESPN.4.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 🇧🇷
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 3 🇧🇷
 +http://45.235.0.78/ESPN_4/playlist.m3u8
 
 ---
