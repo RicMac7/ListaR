@@ -90,9 +90,8 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 ---
 
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-title="TV R",Bein Sports MAX 4 🇫🇷⚽️
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
-+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=229&extension=m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-title="TV R",Bein Sports MAX 4 🇫🇷⚽️
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=229&extension=m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="1836" tvg-name="FR | Bein Sports MAX 5" tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",Bein Sports MAX 5 🇫🇷
@@ -147,11 +146,6 @@ https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1633" tvg-id="ESPN.2.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 2 🇧🇷
-http://45.235.0.78/ESPN_2/playlist.m3u8
-
----
-
 #EXTINF:-1 tvg-chno="" cuid="1637" tvg-id="ESPN.3.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 3 🇧🇷
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN3.m3u8
 +http://45.235.0.78/ESPN_3/playlist.m3u8
@@ -160,9 +154,6 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESP
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-title="TV R",ESPN 4 🇧🇷
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN4.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-title="TV R",ESPN 4 3 🇧🇷
-+http://45.235.0.78/ESPN_4/playlist.m3u8
 
 ---
 
