@@ -90,17 +90,17 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1833" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",Bein Sports MAX 4 🇫🇷⚽️
+#EXTINF:-1 tvg-chno="" cuid="1833" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",Bein Sports MAX 4 1 🇫🇷⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927":"07ce8279537ed26fe831b5343aa55969","2979e661ef50e56026975f5709548b97":"8bb43f5394f362104d25c96426ec5bf8","9bc136d8d6c860b62e0adac003e4d3d9":"ae5c9a9e504a4fe273760c80e7fe1eae","927a104e0407af9133e307e1f84d9b1e":"700d027f34b3fedb75defa9c558faabe"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
 
-#EXTINF:-1 tvg-chno="" cuid="1834" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",Bein Sports MAX 4 🇫🇷⚽️
+#EXTINF:-1 tvg-chno="" cuid="1834" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",Bein Sports MAX 4 2 🇫🇷⚽️
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 +http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=229&extension=m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1835" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",Bein Sports MAX 4 🇫🇷⚽️
+#EXTINF:-1 tvg-chno="" cuid="1835" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",Bein Sports MAX 4 3 🇫🇷⚽️
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917423&extension=ts&play_token=DQ5HNSwg7B
 
@@ -167,7 +167,6 @@ https://02.arlivre.online/espn2/index.m3u8
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1635" tvg-id="ESPN.3.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 3 🇧🇷
-https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8
 https://02.arlivre.online/espn3/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1636" tvg-id="ESPN.3.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 3 🇧🇷
@@ -179,14 +178,10 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESP
 
 ---
 
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 1 🇧🇷
-https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
-https://02.arlivre.online/espn4/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 2 🇧🇷
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-title="TV R",ESPN 4 🇧🇷
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN4.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 4 3 🇧🇷
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-title="TV R",ESPN 4 3 🇧🇷
 +http://45.235.0.78/ESPN_4/playlist.m3u8
 
 ---
