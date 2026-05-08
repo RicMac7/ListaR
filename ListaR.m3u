@@ -151,11 +151,7 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
  ESPN BRASIL 🇧🇷
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1630" tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 🇧🇷
-https://canaiss.fazoeli.co.za/token/145112ebb5265a9879a29842fd5ff55f/espn.m3u8
-
 #EXTINF:-1 tvg-chno="" cuid="1631" tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 🇧🇷
-https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
 https://02.arlivre.online/espn/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1632" tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="TV R",ESPN 🇧🇷
