@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV R" tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LiveNOW_from_Fox.webp",LiveNOW from FOX (720p)
+#EXTINF:-1 group-title="TV R" tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LiveNOW_from_Fox.webp",LiveNOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV R" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
